@@ -37,7 +37,7 @@ def run_pipeline(topic: str):
     print(f"[PIPELINE] Start full run for topic: '{topic}'")
 
     # Hardcode the Gemini API Key here
-    GEMINI_KEY = "AIzaSyCHkTBb9p2id7l2GqzCdSwRo4QocjQxCA8"
+    GEMINI_KEY = "API"
 
     # Ensure env vars for downstream scripts
     os.environ["GEMINI_KEY"] = GEMINI_KEY
@@ -115,3 +115,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n[FATAL ERROR] Pipeline failed: {e}")
         sys.exit(1)
+
