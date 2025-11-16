@@ -1,0 +1,10 @@
+{
+  "input_csv": "c:\\Users\\ishuv\\Desktop\\Capstone\\Scoring\\final_analyzed_articles_weighted.csv",
+  "normalize": true,
+  "fixed_k": 0,
+  "k_min": 2,
+  "k_max": 6,
+  "random_state": 42,
+  "n_articles": 18,
+  "n_entities": 9
+}

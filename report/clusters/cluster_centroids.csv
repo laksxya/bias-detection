@@ -1,0 +1,55 @@
+cluster,entity,mean_final_bias_score
+0,Assam (CUSTOM),0.0
+1,Assam (CUSTOM),0.0
+2,Assam (CUSTOM),0.22017250141528028
+3,Assam (CUSTOM),-0.012322960120917987
+4,Assam (CUSTOM),0.0
+5,Assam (CUSTOM),-0.4080663035884833
+0,Bihar (CUSTOM),0.0
+1,Bihar (CUSTOM),0.0
+2,Bihar (CUSTOM),0.0
+3,Bihar (CUSTOM),-0.018189538380495678
+4,Bihar (CUSTOM),0.0
+5,Bihar (CUSTOM),0.0
+0,Delhi (CUSTOM),0.1851871754049117
+1,Delhi (CUSTOM),0.0
+2,Delhi (CUSTOM),0.0
+3,Delhi (CUSTOM),0.028287400567766564
+4,Delhi (CUSTOM),-0.05308841092122823
+5,Delhi (CUSTOM),0.040769461542367935
+0,Hindu (CUSTOM),0.0
+1,Hindu (CUSTOM),-0.19377237744629383
+2,Hindu (CUSTOM),0.0
+3,Hindu (CUSTOM),0.0
+4,Hindu (CUSTOM),0.0
+5,Hindu (CUSTOM),0.0
+0,Maharashtra (CUSTOM),0.0
+1,Maharashtra (CUSTOM),0.0
+2,Maharashtra (CUSTOM),0.0
+3,Maharashtra (CUSTOM),-0.13499612786940166
+4,Maharashtra (CUSTOM),0.0
+5,Maharashtra (CUSTOM),0.0
+0,Muslim (CUSTOM),0.0
+1,Muslim (CUSTOM),0.0
+2,Muslim (CUSTOM),0.0
+3,Muslim (CUSTOM),0.10368399215596062
+4,Muslim (CUSTOM),0.0
+5,Muslim (CUSTOM),0.0
+0,Shiv Sena (CUSTOM),0.0
+1,Shiv Sena (CUSTOM),0.0
+2,Shiv Sena (CUSTOM),0.0
+3,Shiv Sena (CUSTOM),0.0
+4,Shiv Sena (CUSTOM),0.0
+5,Shiv Sena (CUSTOM),-0.9069239944219589
+0,Uttar Pradesh (CUSTOM),0.0
+1,Uttar Pradesh (CUSTOM),0.0
+2,Uttar Pradesh (CUSTOM),0.0
+3,Uttar Pradesh (CUSTOM),-0.12770573275962047
+4,Uttar Pradesh (CUSTOM),0.0
+5,Uttar Pradesh (CUSTOM),0.0
+0,West Bengal (CUSTOM),0.0
+1,West Bengal (CUSTOM),0.0
+2,West Bengal (CUSTOM),0.0
+3,West Bengal (CUSTOM),-0.023081809063444182
+4,West Bengal (CUSTOM),0.0
+5,West Bengal (CUSTOM),0.0
